@@ -8,6 +8,8 @@ extra:
     code: JetBrains Mono
 theme:
   favicon: assets/logo-bw.png
+  features:
+    - navigation
   logo: assets/logo.png
   name: material
 # theme configures the visual appearance of the website.
