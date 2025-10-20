@@ -1,7 +1,7 @@
 site_name: Néda El Hadj-Mimoune - Technical Writer
 extra_css:
   - stylesheets/extra.css
-site_url: https://adenehm.github.io/<repo-name>/
+site_url: https://adenehm.github.io/my-cv/
 extra:
   font:
     text: IBM Plex Sans
