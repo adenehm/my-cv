@@ -1,0 +1,71 @@
+site_name: Néda El Hadj-Mimoune - Technical Writer
+extra_css:
+  - stylesheets/extra.css
+site_url: https://adenehm.github.io/<repo-name>/
+extra:
+  font:
+    text: IBM Plex Sans
+    code: JetBrains Mono
+theme:
+  favicon: assets/logo-bw.png
+  logo: assets/logo.png
+  name: material
+# theme configures the visual appearance of the website.
+  palette:
+  # palette defines color schemes and toggle options for light and dark modes.
+      # Palette toggle for light mode
+    - scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+      # toggle specifies the icon and name for toggling between light and dark modes.
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: brown
+      accent: amber
+      toggle:
+      # toggle specifies the icon and name for toggling between light and dark modes.
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  icon:
+  features:
+    # Enables section-based navigation.
+    # Shows the navigation path (breadcrumbs).
+    - navigation.top
+    # Adds a "back to top" button.
+    - search.suggest
+    # Enables search suggestions.
+    - navigation.expand
+markdown_extensions:
+  - attr_list
+  # Enables attribute lists for elements.
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+# Lists the Markdown extensions enabled for the website.
+  - pymdownx.snippets
+  # Allows the inclusion of external Markdown snippets.
+  - admonition
+  - pymdownx.superfences
+  # Adds support for admonitions.
+  - md_in_html
+  # Allows Markdown within HTML blocks.
+  - def_list
+  # Adds support for definition lists.
+  - pymdownx.details
+  #  This is used for collapsible sections within the documentation.
+  - tables
+nav:
+# Defines the navigation structure of the website, linking to the corresponding markdown files.
+  - About me: index.md
+  - Experience: experience.md
+  - Skills: skills.md
+  - Education and certifications: education.md
+  - Writing Samples: writing-samples.md
+  - Contact: contact-me.md
+
+copyright: > # Sets the copyright notice for the website.
+  Copyright &copy; 2016 - 2024 Martin Donath - Made with Material for MkDocs
