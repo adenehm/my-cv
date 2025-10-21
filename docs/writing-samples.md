@@ -114,7 +114,7 @@ As a Technical Writer at Scaleway, I am not responsible for creating videos, but
 
 ### Interactive demos
 
-I have also created interactive demos with Guideflow to show users how to navigate the Scaleway console.
+I have created interactive demos with Guideflow to show users how to navigate the Scaleway console.
 
 - Guideflow: Secret Manager console overview
 
