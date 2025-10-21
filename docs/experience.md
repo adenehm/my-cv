@@ -32,19 +32,19 @@ As a **documentation team representative in product squads**, I:
 
 ### Notable contributions
 
-- **SEO Improvements** – Updated doc site metadata and structure to improve SEO visibility
+- **SEO Improvements** - Updated doc site metadata and structure to improve SEO visibility
 
 - **Attended Development classes** - Took part in Python and Terraform trainings given by coworkers
 
 - **Amplitude Dashboards** - Created presentations, and shared insights with product teams
 
-- **External Meetup** – Co-organized and presented at the Documentation Team’s second external meetup on the subject of "Documentation as a product".
+- **External Meetup** - Co-organized and presented at the Documentation Team’s second external meetup on the subject of "Documentation as a product".
 
 - **Training Other Teams** - Organized workshops to teach coworkers from different teams how to use GitHub features and write documentation. Taught coworkers how to test and use APIs with Insomnia.
 
 - **Onboarding Team Members** - Created an [internal onboarding website](https://onboarding-docteam-bucket.s3-website.fr-par.scw.cloud/) to centralize team processes for new team members.
 
-- **Support Integration** – Created new troubleshooting pages based on support feedback.
+- **Support Integration** - Created new troubleshooting pages based on support feedback.
 
 - **English Coffee** - Facilitated weekly language practice sessions with coworkers.
 
