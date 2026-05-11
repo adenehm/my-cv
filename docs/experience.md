@@ -2,7 +2,15 @@
 
 ## Technical Writer
 
-Scaleway (2021 - Now)
+EPI Company (March 2026 - Now)
+
+- Develop automated GitHub workflows to reduce manual documentation effort by syncing repositories, enforcing spell checks, and keeping changelogs up to date
+
+- Turn error states into helpful guidance by implementing custom 404 pages that explain content availability issues and guide users back to relevant documentation
+  
+- Enable faster onboarding and better comprehension for non expert users by creating a clear, searchable glossary for financial concepts
+
+Scaleway (2021 - 2026)
 
 As a **technical writer** in the team, I:
 
